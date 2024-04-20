@@ -21,8 +21,8 @@
 
 <schedule.sql>  
 1.建立兩個欄位:  
-	1.student_id: 代表學生的學號  
-	2.course_id: 代表課程的編號  
+	student_id: 代表學生的學號  
+	course_id: 代表課程的編號  
 2.插入資料:  
 	使用INSERT INTO語句將資料插入"schedule"資料表中，每個INSERT INTO語句代表一筆學生選課的資料，每筆插入都提供了學生學號和所選課程的編號。  
 3.查詢資料:  
