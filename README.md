@@ -1,4 +1,4 @@
-# database_system_HW1_0420
+# 資料庫系統作業
 
 <course.sql>
 1.建立資料表:
